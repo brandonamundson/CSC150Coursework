@@ -82,6 +82,11 @@ StyleCopReport.xml
 *.pgc
 *.pgd
 *.rsp
+<<<<<<< HEAD
+=======
+# but not Directory.Build.rsp, as it configures directory-level build defaults
+!Directory.Build.rsp
+>>>>>>> bb28d97 (Git creation of CSC150 Projects)
 *.sbr
 *.tlb
 *.tli
@@ -396,3 +401,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+<<<<<<< HEAD
+=======
+
+mathcrap/
+fuckstupidavast/
+>>>>>>> bb28d97 (Git creation of CSC150 Projects)
